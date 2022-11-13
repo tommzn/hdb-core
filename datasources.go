@@ -7,4 +7,5 @@ const (
 	DATASOURCE_WEATHER       DataSource = "weather"
 	DATASOURCE_INDOORCLIMATE DataSource = "indoorclimate"
 	DATASOURCE_EXCHANGERATE  DataSource = "exchangerate"
+	DATASOURCE_STRAVE        DataSource = "strava"
 )
